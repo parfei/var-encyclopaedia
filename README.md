@@ -1,5 +1,5 @@
 # Visual Audio Read Encyclopaedia
-206 Assignment
+SOFTENG 206 (Software Engineering Design 1) Assignment
 
 Using the Linux environment, developed a program using Bash commands. Required files are created in the same folder as the Bash script file that is executed.
 
